@@ -2,7 +2,8 @@
 
 ### 👋 Emiliano's GitHub Profile 👋
 
-Hey there, my name is Emiliano Arancio. I'm from 🇦🇷gentina and I graduated from a bootcamp called "Soy Henry" with some really good projects and experience.
+Hey there, my name is Emiliano Arancio, welcome to my profile. 
+I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp is called "Soy Henry". I did a couple projects that were required in order to approve (and had a lot of fun doing them). I also made a couple projects while I was learning the basics at Coderhouse, I'll list them all down below.
 
 ### 💻 Projects 💻
 
