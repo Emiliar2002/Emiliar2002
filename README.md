@@ -26,8 +26,8 @@ I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp i
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="EJS" width="40" height="40"/> </a> 
-<a href="https://jwt.io/" target="_blank"> <img src="https://jwt.io/" alt="JWT" width="40" height="40"/> </a> 
+<a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS" width="40" height="40"/> </a> 
+<a href="https://jwt.io/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*6SRs2ZhJ5LX77st9ONlzCg.png" alt="JWT" width="40" height="40"/> </a> 
 
 ### 🌎 My Languages 🌎
 
