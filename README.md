@@ -13,7 +13,7 @@ I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp i
 - [Row Cutter](https://github.com/Emiliar2002/row-cutter): A simple photoshop script to cut and paste same-sized elements in rows.
 - [JueguitosDB](https://github.com/Emiliar2002/PI-Videogames-main): Individual project for Soy Henry. It's a web application to find games and informationa about them using an external API (and adding them to the database too.) It was made using React, NodeJS, Express and Sequelize. [You can see the deployed app here](https://jueguitosdb.herokuapp.com/)
 
-<h3 align="left">Programming Languages and Tools:</h3>
+### 🛠️Programming Languages and Tools🛠️
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -36,3 +36,7 @@ I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp i
 - Japanese: A2
 
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+
+### 📞 Contact 📞
+- [Linkedin](https://www.linkedin.com/)
+- [Email](mailto:earancio616@gmail.com)
