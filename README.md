@@ -32,7 +32,7 @@ I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp i
 ### 🌎 My Languages 🌎
 
 - Spanish: Native
-- English: [C2](https://github.com/Emiliar2002/DW-23500-EA](https://www.efset.org/cert/YwaaFF)
+- English: [C2](https://www.efset.org/cert/YwaaFF)
 - Japanese: A2
 - Portuguese: A1
 
