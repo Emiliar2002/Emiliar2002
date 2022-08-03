@@ -32,8 +32,9 @@ I'm a full stack web developer bootcamp graduate from Argentina. This bootcamp i
 ### 🌎 My Languages 🌎
 
 - Spanish: Native
-- English: B2
+- English: [C2](https://github.com/Emiliar2002/DW-23500-EA) 
 - Japanese: A2
+- Portuguese: A1
 
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 
